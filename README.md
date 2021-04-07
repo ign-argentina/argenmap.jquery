@@ -1,7 +1,7 @@
 # argenmap.jquery
 Plugin jQuery para usar mapas del Instituto Geográfico Nacional de la República Argentina http://www.ign.gob.ar/argenmap/
 
-===================================================
+* * *
 
 Presentación
 ------------
@@ -34,4 +34,4 @@ Licencia
 Documentación completa
 -----------------
 
- - [Mirá la documentación] (http://www.ign.gob.ar/argenmap/argenmap.jquery/docs)
+ - [Mirá la documentación](http://www.ign.gob.ar/argenmap/argenmap.jquery/docs)
